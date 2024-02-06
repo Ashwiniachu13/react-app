@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ashwiniachu13/myreact-repo/static/css/main.16fd53b0.css",
+    "main.js": "/Ashwiniachu13/myreact-repo/static/js/main.f5531216.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Ashwiniachu13/myreact-repo/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/Ashwiniachu13/myreact-repo/index.html",
+    "main.16fd53b0.css.map": "/Ashwiniachu13/myreact-repo/static/css/main.16fd53b0.css.map",
+    "main.f5531216.js.map": "/Ashwiniachu13/myreact-repo/static/js/main.f5531216.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Ashwiniachu13/myreact-repo/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16fd53b0.css",
+    "static/js/main.f5531216.js"
+  ]
+}
